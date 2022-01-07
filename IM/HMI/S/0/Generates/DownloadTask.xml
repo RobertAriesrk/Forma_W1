@@ -2,10 +2,10 @@
 <DownloadTask>
   <ProjectInfo
     DeviceVersion="15.1.0.0"
-    CreationTime="2022-01-04 19:28:48 (UTC)"
+    CreationTime="2022-01-06 11:33:53 (UTC)"
     Runtime="SMART"
-    RtProjectName="Tester_Forma_AriesRK.HMI_1[KTP400 Basic PN]"
-    RtProjectFolderName="Tester_Forma_AriesRK.HMI_1[KTP400 Basic PN]"
+    RtProjectName="Tester_Forma_W1.HMI_1[KTP400 Basic PN]"
+    RtProjectFolderName="Tester_Forma_W1.HMI_1[KTP400 Basic PN]"
     DeviceType="KTP400_Basic"
     DisplayOrientation="0"
     RTReleaseNo="15.1.0.0"
